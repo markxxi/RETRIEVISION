@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Retrievision</string>
+    <string name="sign_up_hint"><b><font color="#FFFFFF">Sign Up with 0365 email</font></b></string>
+    <string name="sign_in_hint"><b><font color="#FBBC09">Sign In with 0365 email</font></b></string>
+    <string name="found_text">REPORT LOST OBJECT</string>
+    <string name="lost_text">REPORT FOUND OBJECT</string>
+    <string name="rlo_descrip">Please fill out the necessary details of the lost object by following these steps.</string>
+    <string name="rfo_descrip">Please fill out the necessary details of the found object by following these steps.</string>
+
+        <string name="text_spaces">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+
+    </resources>
